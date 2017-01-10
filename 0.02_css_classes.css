@@ -1,0 +1,25 @@
+/*2*/
+body {
+	background-color: blue;
+}
+
+p {
+	font-size: 45px;
+}
+
+/*this styles everything within the css-classes class*/
+.css-classes {
+	background-color: lightgray;
+}
+
+/* 5 */
+/*this styles all the p tags within the css-classes class*/
+.css-classes p {
+	font-size: 16px;
+	color: green;
+}
+
+/*this styles all the li items within the css-classes class*/
+.css-classes li{
+	color: navy;
+}
